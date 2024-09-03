@@ -1,7 +1,7 @@
 # Bank-Loan-Report
 Title: 🏦 Comprehensive Bank Loan Analysis Dashboard in Power BI 📊
 
-Description: 🚀 Excited to share my latest project, a Bank Loan Analysis Dashboard developed in Power BI. This dashboard provides a consolidated view of key metrics, offering deep insights into loan applications, funding, and repayments. The project includes the following key features:
+Description: A Bank Loan Analysis Dashboard developed in Power BI. This dashboard provides a consolidated view of key metrics, offering deep insights into loan applications, funding, and repayments. The project includes the following key features:
 
 📋 Total Loan Applications: Track the total number of loan applications, with Month-to-Date (MTD) and Month-over-Month (MoM) analysis.\
 
