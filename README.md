@@ -17,4 +17,4 @@ Description: A Bank Loan Analysis Dashboard developed in Power BI. This dashboar
 
 🔧 This project highlights my skills in SQL, data modeling, and Power BI, demonstrating my ability to turn raw data into actionable insights. Check out the detailed analysis and visualizations that drive better decision-making.
 
-#PowerBI #DataAnalysis #BusinessIntelligence #SQL #FinanceDashboard #DataVisualizatio
+#PowerBI #DataAnalysis #BusinessIntelligence #SQL #FinanceDashboard #DataVisualizatio #Dax
